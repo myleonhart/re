@@ -1,6 +1,7 @@
 //0b9862065bec692c3a36f651f0f5d031aa3228a27252aeb2f0f9efb850d3c9a5
 //vn.clevernet.android.sdk.ClevernetView$5 
 
+
 import java.util.*;
 import java.text.*;
 
@@ -8,7 +9,9 @@ public class clevernet2 {
     public static int[] k = {124, -128, 45, -58, -11, -7, 2, 14, -13, 4, 13, -12, 8, -11, -2, 15, -18, 0, -4, 8, -3, 14, -15, -12, 0, 4, 54, 11, 0, -52, -9, 7, -17, 17, -13, 4, 9, -15, 70, -72, 8, 63, -52, 2, -3, -15, 68, -72, 0, 0, 72, -50, -3, -9, 4, -5, 63, -62, 6, 2, -15, 51, -35, -15, 20, -23, 67, 5, -66, 8, -8};
     
     public static void main(String[] args){
+        // Where data (phone number) is sent to
         System.out.println(a(39,1,k[17]));
+        // Output: http://clevernet.vn/cads/www/admin/mgetAds_v3.php
         System.out.println("Hello World");
     }
     
